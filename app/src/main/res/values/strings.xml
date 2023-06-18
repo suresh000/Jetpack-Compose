@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Compose</string>
+    <string name="app_name">Counter</string>
+    <string name="title_activity_splash">SplashActivity</string>
 </resources>
